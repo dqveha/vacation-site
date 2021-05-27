@@ -1,3 +1,20 @@
+.intro {
+  background: url('../images/bermuda-triangle.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: center;
+}
+
+.intro h1 {
+  text-align: center;
+  text-shadow: 0 0 3px white;
+}
+
+.intro p {
+  color: white;
+  text-shadow: 0 0 5px black;
+}
+
 iframe {
   height: 300px;
 }
